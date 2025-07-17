@@ -1,0 +1,17 @@
+# 📂 Dataset Information
+
+The dataset used in this project is a **custom MRI dataset** containing 4 labeled classes:
+
+- **EMCI**: Early Mild Cognitive Impairment  
+- **LMCI**: Late Mild Cognitive Impairment  
+- **MCI**: Mild Cognitive Impairment  
+- **AD**: Alzheimer's Disease  
+
+## 🔗 Download
+
+You can download the dataset from **Kaggle**:
+
+➡️ [MCI-to-AD MRI Dataset on Kaggle](https://www.kaggle.com/datasets/samahabuayied/mci-to-ad-mri-dataset)
+
+After downloading, extract it and make sure the structure is like this:
+
